@@ -1,0 +1,4 @@
+betcoin
+=======
+
+better than bitcoin
